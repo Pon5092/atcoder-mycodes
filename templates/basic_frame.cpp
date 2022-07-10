@@ -3,6 +3,7 @@
 #include<string>
 #include<algorithm>
 #include<cmath>
+#include<queue>
 
 using namespace std;
 typedef long long ll;
@@ -11,8 +12,10 @@ typedef long long ll;
 #define outyes cout << "Yes" << endl  
 #define outno cout << "No" << endl
 #define outans cout << ans << endl;
-//const ll mod =  998244353;
-//const ll mod = 1e9+7;
+//const ll mod =  998244353L;
+//const ll mod = 1e9+7L;
+//const double PI =3.14159265359d;
+//const double E =2.718281828d;
 
 int main()
 {
